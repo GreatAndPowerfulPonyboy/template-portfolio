@@ -5,12 +5,12 @@ This will be your portfolio repository. Use this as a [template repository](http
 *My name is Amber Horvath, I'm a postdoctoral associate researching code comprehension interventions, it's nice to meet you! [Here is a link to my real website.](https://amberhorvath.com)
 Now you should write something about yourself here!*
 
-Some fun facts about me:
-1. I love hockey.
-2. I do pottery.
-3. I have an extra bone in my right foot.
+*My name is Victor Ogunsanya, I'm a Junior 6-3 student not doing much in particular yet.*
 
-![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096)
+Some fun facts about me:
+1. I play the trombone occasionally.
+2. I am from Avon, Indiana
+3. I have relapsed on League of Legends at least three times.
 
 
 # Table of Contents
